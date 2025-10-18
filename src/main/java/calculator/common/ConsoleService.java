@@ -12,8 +12,4 @@ public class ConsoleService {
     public static void output(String output) {
         System.out.println("결과 : " + output);
     }
-
-    public static void error(String error) {
-        System.out.println(error);
-    }
 }
